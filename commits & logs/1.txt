@@ -1,0 +1,6 @@
+git status #branch btata hai kispe ho
+touch #file banane ke liye 
+git add track pe lane ke liye
+git commit -m "" with message 
+git add . add everything
+git log --oneline #commit k message aur id 
